@@ -1,2 +1,3 @@
 # nachi_demo
-my first repo
+my first repo 
+author: nachi
